@@ -11,7 +11,7 @@ const Footer = () => {
                   products and services!
                 </p>
                 <form
-                  action="forms/newsletter.php"
+                  action="#"
                   method="post"
                   className="php-email-form"
                 >
@@ -70,31 +70,8 @@ const Footer = () => {
                 </li>
               </ul>
             </div>
-            <div className="col-lg-2 col-md-3 footer-links">
-              <h4>Our Services</h4>
-              <ul>
-                <li>
-                  <i className="bi bi-chevron-right" /> <a href="#">Web Design</a>
-                </li>
-                <li>
-                  <i className="bi bi-chevron-right" />{" "}
-                  <a href="#">Web Development</a>
-                </li>
-                <li>
-                  <i className="bi bi-chevron-right" />{" "}
-                  <a href="#">Product Management</a>
-                </li>
-                <li>
-                  <i className="bi bi-chevron-right" /> <a href="#">Marketing</a>
-                </li>
-              </ul>
-            </div>
             <div className="col-lg-4 col-md-12">
               <h4>Follow Us</h4>
-              <p>
-                Cras fermentum odio eu feugiat lide par naso tierra videa magna derita
-                valies
-              </p>
               <div className="social-links d-flex">
                 <a href="">
                   <i className="bi bi-twitter-x" />
